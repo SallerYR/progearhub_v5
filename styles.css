@@ -46,7 +46,7 @@ body {
 
 
 .right-nav a:hover {
-    color: var(--sandy-brown);
+    hsl(0, 0%, 20%);
 }
 
 
@@ -115,7 +115,7 @@ body {
 
 
 .home-banner {
-    background-color: var(--steel-blue);
+    background-color: hsl(0, 83%, 47%);
     display: flex;
     justify-content: center;
     align-items: center;

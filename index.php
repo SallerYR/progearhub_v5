@@ -14,9 +14,9 @@
     </div>
     <main class="container">
         <div class="card">
-            <img src="products/pexels-1.jpg" alt="Nike Dunk Low Retro 'Panda'">
+            <img src="products/pexels-1.jpg" alt="Surfing Guy">
             <div class="card-content">
-                <h4 class="card-title">Product 1</h4>
+                <h4 class="card-title">Surf Board</h4>
                 <p class="price">199</p>
                 <a href="#" class="card-button">
                     Add to Cart
@@ -24,9 +24,9 @@
             </div>
         </div>
         <div class="card">
-            <img src="products/pexels-2.jpg" alt="ASICS Men's Patriot 13 Running Shoes Black">
+            <img src="products/pexels-2.jpg" alt="German">
             <div class="card-content">
-                <h4 class="card-title">Product 2</h4>
+                <h4 class="card-title">German Top</h4>
                 <p class="price">199</p>
                 <a href="#" class="card-button">
                     Add to Cart
@@ -34,9 +34,9 @@
             </div>
         </div>
         <div class="card">
-            <img src="products/pexels-3.jpg" alt="Nike Vomero 18 Men's Road Running Shoes - Summit White/Coconut Milk/Coconut Milk/Black">
+            <img src="products/pexels-3.jpg" alt="Paris psg">
             <div class="card-content">
-                <h4 class="card-title">Product 3</h4>
+                <h4 class="card-title">PSG TOP</h4>
                 <p class="price">199</p>
                 <a href="#" class="card-button">
                     Add to Cart

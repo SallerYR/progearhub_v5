@@ -20,7 +20,7 @@
         <div class="men-banner">
             <div class="banner-text">
                 <h2>SALE</h2>
-                <P>Get massive discounts in our mid-year sale</P>
+                <P>GET DISCOUNT FOR OUR SHOP</P>
                 <a href="sale.html">Shop</a>
             </div>
         </div>
